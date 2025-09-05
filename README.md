@@ -26,5 +26,8 @@ Each data structure implementation is modularized into its own class file, with 
 4. Results and updated contents are printed after each operation.
 5. User can exit.
 
-
+## For addition:
+src/DS → Source Code
+bin/DS → Compiled Code  (class files)
+I have a DS folder inside both src and bin because it matches the package DS; line in my code. When I run my program, Java takes the .java files I wrote in src, compiles them into .class files and saves them in bin so the program can run. I always write and edit my code in src, and the bin folder updates automatically whenever I build or run the project.
 
