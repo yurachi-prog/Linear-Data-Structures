@@ -24,7 +24,7 @@ Each data structure implementation is modularized into its own class file, with 
 2. For the selected structure, operations are offered via a submenu.
 3. User inputs guide insertion, deletion, or display commands.
 4. Results and updated contents are printed after each operation.
-5. User can exit submenus and then exit the program gracefully.
+5. User can exit.
 
 
 
